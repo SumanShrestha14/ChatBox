@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.chatbox.app-mergeDebugResources-51:/layout/recent_chat_row.xml",
+        "source": "com.example.chatbox.app-main-54:/layout/recent_chat_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\chat_image_row.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\chat_image_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\custom_progress_dialog.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\emoji.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\emoji.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\loading.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\fragment_reels.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\fragment_reels.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_sets.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_sets.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\search_user_recycler_row.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\search_user_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\three_dot_dialog.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\three_dot_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_tic_tac_toe.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_tic_tac_toe.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\setitem.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\setitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\fragment_chats.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_reels_upload.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_reels_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_win_dialog.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_win_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\loading2.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\loading2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_category.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\profile_pic_view.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\profile_pic_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\recent_chat_row.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\recent_chat_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\category_item.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\singlerow_video.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\singlerow_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_question.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_score.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\chats_list.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\chats_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\chat_message_row.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\chat_message_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_login_user_name.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_login_user_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_login_otp.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_login_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_message_interface.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_message_interface.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-mergeDebugResources-51:\\layout\\activity_login_phone_number.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_login_phone_number.xml"
+    }
+]

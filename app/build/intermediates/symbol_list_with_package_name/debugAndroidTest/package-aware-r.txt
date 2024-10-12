@@ -1,0 +1,3 @@
+com.example.chatbox.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,6 @@
+com.example.chatbox.test.app-annotation-experimental-1.3.0-0 C:\Users\User\.gradle\caches\transforms-3\d6fd40c89d4bb9798768ed71fbdde459\transformed\annotation-experimental-1.3.0\res
+com.example.chatbox.test.app-core-1.5.0-1 C:\Users\User\.gradle\caches\transforms-3\f7193e4fc58fbb83a9516e9e3039b7eb\transformed\core-1.5.0\res
+com.example.chatbox.test.app-androidTest-2 C:\Users\User\Downloads\ChatBox\app\build\generated\res\resValues\androidTest\debug
+com.example.chatbox.test.app-mergeDebugAndroidTestResources-3 C:\Users\User\Downloads\ChatBox\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.chatbox.test.app-mergeDebugAndroidTestResources-4 C:\Users\User\Downloads\ChatBox\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.chatbox.test.app-merged_res-5 C:\Users\User\Downloads\ChatBox\app\build\intermediates\merged_res\debugAndroidTest

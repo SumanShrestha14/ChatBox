@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_fragment_reels.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\fragment_reels.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_circular_bg.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\circular_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_message_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\message_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_phone.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\raw_click.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\raw\\click.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_question.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_message_interface.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_message_interface.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_heart_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\heart_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_chats.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_setitem.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\setitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_img_5.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_utuali.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\utuali.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_image_message_profile_circular.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\image_message_profile_circular.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_emoji_smile_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\emoji_smile_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_sets.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_sets.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_tic_tac_toe.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_tic_tac_toe.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_layoutborder_turn.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\layoutborder_turn.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_three_dot_dialog.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\three_dot_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_circular_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\circular_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_win_dialog.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_win_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_baloo_bhaina_2_medium.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\baloo_bhaina_2_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_ubuntuu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\ubuntuu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_rectangular_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\rectangular_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_send.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\send.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_img_4.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_emoji.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\emoji.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_test_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\test_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_category.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_three_dot.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\three_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_reels.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\reels.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_zero_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\zero_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_search_user_recycler_row.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\search_user_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\raw_gameover.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\raw\\gameover.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_custom_progress_dialog.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_button.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_camera.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_baloo_bhai_2_semibold.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\baloo_bhai_2_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_chats_list.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\chats_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_singlerow_video.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\singlerow_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_category_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_profile_pic_view.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\profile_pic_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_circle_around_number.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\circle_around_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_ayt.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\ayt.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\anim_anim.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\anim\\anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_audio_call.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\audio_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_login_phone_number.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_login_phone_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_baloo_chettan.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\baloo_chettan.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_recent_chat_row.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\recent_chat_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_voice.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_rounded_corner_for_dialog_box.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\rounded_corner_for_dialog_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_cross_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\cross_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_video_call.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\video_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\raw_sentmsg.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\raw\\sentmsg.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_ubuntu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\ubuntu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_round_image.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\round_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_baseline_group_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\baseline_group_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_baseline_phone_android_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\baseline_phone_android_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_img_3.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_ubu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\ubu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_corner_radius_edittext_border.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\corner_radius_edittext_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_login_user_name.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_login_user_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_add_circle_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\add_circle_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.example.chatbox.app-merged_res-52:/layout_recent_chat_row.xml.flat",
+        "source": "com.example.chatbox.app-main-54:/layout/recent_chat_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_loading.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_score.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_upload_video.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\upload_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_chat_message_row.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\chat_message_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_loading2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\loading2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_tictactoe.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\tictactoe.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_img_6.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\img_6.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\raw_receivemsg.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\raw\\receivemsg.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_shapes.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\shapes.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_img4.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\img4.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_ubuntu_mono.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\ubuntu_mono.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\raw_gamestart.mp3.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\raw\\gamestart.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_shapes2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\shapes2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_filled_heart.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\filled_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_roundcorners.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\roundcorners.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_upload.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_cross_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\cross_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_back.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_image.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\image.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_reels_upload.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_reels_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_baloo_bhaina_2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\baloo_bhaina_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_corner_radius.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\corner_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_login_otp.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_login_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_img.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_chat_image_row.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\chat_image_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\font_alata.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\font\\alata.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_games.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\games.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\drawable_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\drawable\\round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-merged_res-52:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.2\\com.example.chatbox.app-main-54:\\layout\\activity_search.xml"
+    }
+]

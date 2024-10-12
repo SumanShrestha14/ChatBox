@@ -1,0 +1,55 @@
+com.example.chatbox.app-transition-1.2.0-0 C:\Users\User\.gradle\caches\transforms-3\0a26bc31dcd30562d3b1a103e47428df\transformed\transition-1.2.0\res
+com.example.chatbox.app-appcompat-resources-1.6.1-1 C:\Users\User\.gradle\caches\transforms-3\11848f052e4b4098d07fbfe55134a0e5\transformed\appcompat-resources-1.6.1\res
+com.example.chatbox.app-imagepicker-2.1-2 C:\Users\User\.gradle\caches\transforms-3\1a11c5722b9defa2be6e075ed40b5b16\transformed\imagepicker-2.1\res
+com.example.chatbox.app-ads-adservices-1.0.0-beta05-3 C:\Users\User\.gradle\caches\transforms-3\1b8fe63ca75d954ec1d1b578660026bd\transformed\ads-adservices-1.0.0-beta05\res
+com.example.chatbox.app-firebase-messaging-23.4.0-4 C:\Users\User\.gradle\caches\transforms-3\1cd570d34e1158792920a2c54594bb87\transformed\firebase-messaging-23.4.0\res
+com.example.chatbox.app-permissionx-1.7.1-5 C:\Users\User\.gradle\caches\transforms-3\26b48b195b5d33172db551171438b52c\transformed\permissionx-1.7.1\res
+com.example.chatbox.app-savedstate-1.2.1-6 C:\Users\User\.gradle\caches\transforms-3\33fc24d2baf3f610124ed4c519e8f666\transformed\savedstate-1.2.1\res
+com.example.chatbox.app-coordinatorlayout-1.1.0-7 C:\Users\User\.gradle\caches\transforms-3\353c8c534097129693abd87ebe5d9272\transformed\coordinatorlayout-1.1.0\res
+com.example.chatbox.app-activity-1.8.0-8 C:\Users\User\.gradle\caches\transforms-3\38bc88b48eb2f789100aeaa97093d9e8\transformed\activity-1.8.0\res
+com.example.chatbox.app-ads-adservices-java-1.0.0-beta05-9 C:\Users\User\.gradle\caches\transforms-3\3bbfd8c0f5a260afe77bb57a6e458516\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.chatbox.app-constraintlayout-2.1.4-10 C:\Users\User\.gradle\caches\transforms-3\41f0b8a6d82b0446b34ea096d54fcdd4\transformed\constraintlayout-2.1.4\res
+com.example.chatbox.app-lifecycle-livedata-2.6.1-11 C:\Users\User\.gradle\caches\transforms-3\47c307ef1ed9987960dc3b84d714befe\transformed\lifecycle-livedata-2.6.1\res
+com.example.chatbox.app-emoji-0.7.0-12 C:\Users\User\.gradle\caches\transforms-3\53fa95e1fa569e1109ee5a7b0b7f4c09\transformed\emoji-0.7.0\res
+com.example.chatbox.app-annotation-experimental-1.3.0-13 C:\Users\User\.gradle\caches\transforms-3\550236dec3534db983e15c991aeace78\transformed\annotation-experimental-1.3.0\res
+com.example.chatbox.app-ucrop-2.2.6-14 C:\Users\User\.gradle\caches\transforms-3\57d1b7922e114e234633916f212086c9\transformed\ucrop-2.2.6\res
+com.example.chatbox.app-media-1.0.0-15 C:\Users\User\.gradle\caches\transforms-3\586ed36c72fd6bbd3f41e4ca84c6890a\transformed\media-1.0.0\res
+com.example.chatbox.app-browser-1.4.0-16 C:\Users\User\.gradle\caches\transforms-3\58b375d4d0cd7b52352348f67052cd61\transformed\browser-1.4.0\res
+com.example.chatbox.app-paging-rxjava3-3.0.0-17 C:\Users\User\.gradle\caches\transforms-3\5d94d85765889e6c65742fd47cb65528\transformed\paging-rxjava3-3.0.0\res
+com.example.chatbox.app-lifecycle-viewmodel-2.6.1-18 C:\Users\User\.gradle\caches\transforms-3\6b94da202bf8103302aa54ed594075e2\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.chatbox.app-play-services-base-18.1.0-19 C:\Users\User\.gradle\caches\transforms-3\6bbcd7e49795efb38635b7e736182ea5\transformed\play-services-base-18.1.0\res
+com.example.chatbox.app-play-services-basement-18.1.0-20 C:\Users\User\.gradle\caches\transforms-3\7b12573e0e9f01cd2721779e766a9b5c\transformed\play-services-basement-18.1.0\res
+com.example.chatbox.app-zego_uikit_android-2.8.0-21 C:\Users\User\.gradle\caches\transforms-3\8126d469ef09e0d82e5b5db91c2a48b9\transformed\zego_uikit_android-2.8.0\res
+com.example.chatbox.app-drawerlayout-1.1.1-22 C:\Users\User\.gradle\caches\transforms-3\81c9c44ab3cc3fadd72105a2bd3ac3a0\transformed\drawerlayout-1.1.1\res
+com.example.chatbox.app-viewpager2-1.0.0-23 C:\Users\User\.gradle\caches\transforms-3\899c2f3b8e0ca8a4cb224d92d150476d\transformed\viewpager2-1.0.0\res
+com.example.chatbox.app-lifecycle-livedata-core-2.6.1-24 C:\Users\User\.gradle\caches\transforms-3\8ccbf19d21387c9e24d7f5e668d30038\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.chatbox.app-firebase-common-20.4.2-25 C:\Users\User\.gradle\caches\transforms-3\920d8a26f73188757b8582f0e0532b2e\transformed\firebase-common-20.4.2\res
+com.example.chatbox.app-glide-4.16.0-26 C:\Users\User\.gradle\caches\transforms-3\9c93b10857ad7487fc275f04befb708c\transformed\glide-4.16.0\res
+com.example.chatbox.app-core-ktx-1.9.0-27 C:\Users\User\.gradle\caches\transforms-3\a28bc324ed7b643ace68fe6376f8e055\transformed\core-ktx-1.9.0\res
+com.example.chatbox.app-play-services-measurement-api-21.5.0-28 C:\Users\User\.gradle\caches\transforms-3\a4a107bece705b8ca3550eb4fafd07ca\transformed\play-services-measurement-api-21.5.0\res
+com.example.chatbox.app-zego_uikit_prebuilt_call_android-2.9.12-29 C:\Users\User\.gradle\caches\transforms-3\a514fcd146c236ceb41dc75ec5553434\transformed\zego_uikit_prebuilt_call_android-2.9.12\res
+com.example.chatbox.app-lifecycle-process-2.6.1-30 C:\Users\User\.gradle\caches\transforms-3\aa176dcab3286a4b34662debe5795dca\transformed\lifecycle-process-2.6.1\res
+com.example.chatbox.app-lifecycle-viewmodel-savedstate-2.6.1-31 C:\Users\User\.gradle\caches\transforms-3\ad072df6564ad3d5f02db94734b76ae7\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.chatbox.app-startup-runtime-1.1.1-32 C:\Users\User\.gradle\caches\transforms-3\ad929b1fe4509518603e9fd1fecabed0\transformed\startup-runtime-1.1.1\res
+com.example.chatbox.app-core-runtime-2.2.0-33 C:\Users\User\.gradle\caches\transforms-3\af3c559a3b5fb413c497813e6f09b783\transformed\core-runtime-2.2.0\res
+com.example.chatbox.app-zpns-2.6.0-34 C:\Users\User\.gradle\caches\transforms-3\b22473833489b14fb2a18f4211fc6d9f\transformed\zpns-2.6.0\res
+com.example.chatbox.app-dexter-6.2.1-35 C:\Users\User\.gradle\caches\transforms-3\b6f62e77fad413e93e2f2c06375cc108\transformed\dexter-6.2.1\res
+com.example.chatbox.app-emoji2-views-helper-1.2.0-36 C:\Users\User\.gradle\caches\transforms-3\c566ef028f700437152aae7262298682\transformed\emoji2-views-helper-1.2.0\res
+com.example.chatbox.app-material-1.11.0-37 C:\Users\User\.gradle\caches\transforms-3\c5aba0969b41c52752f253cd119c7a5e\transformed\material-1.11.0\res
+com.example.chatbox.app-appcompat-1.6.1-38 C:\Users\User\.gradle\caches\transforms-3\c8cb0f2a8d72a59eacef808dc116fa19\transformed\appcompat-1.6.1\res
+com.example.chatbox.app-lifecycle-runtime-2.6.1-39 C:\Users\User\.gradle\caches\transforms-3\ca5e9fdb335bedd805c9e51a675ceb74\transformed\lifecycle-runtime-2.6.1\res
+com.example.chatbox.app-cardview-1.0.0-40 C:\Users\User\.gradle\caches\transforms-3\cf8a99eaa4662befe05e90afbdb2f3ba\transformed\cardview-1.0.0\res
+com.example.chatbox.app-profileinstaller-1.3.0-41 C:\Users\User\.gradle\caches\transforms-3\dc5155c5ed8b14414c198071e886044e\transformed\profileinstaller-1.3.0\res
+com.example.chatbox.app-fragment-1.3.6-42 C:\Users\User\.gradle\caches\transforms-3\dd43ddd7422ffe07a2e7976c338c9ea7\transformed\fragment-1.3.6\res
+com.example.chatbox.app-emoji2-1.2.0-43 C:\Users\User\.gradle\caches\transforms-3\e0dd024a38b868b8d0f85e700eb99ef0\transformed\emoji2-1.2.0\res
+com.example.chatbox.app-recyclerview-1.2.1-44 C:\Users\User\.gradle\caches\transforms-3\ed61b3fd826ccb868b98a7c7b86240d2\transformed\recyclerview-1.2.1\res
+com.example.chatbox.app-emoji-google-0.7.0-45 C:\Users\User\.gradle\caches\transforms-3\f3710f92cf19a7dd125dd2b6cfcd7d96\transformed\emoji-google-0.7.0\res
+com.example.chatbox.app-core-1.9.0-46 C:\Users\User\.gradle\caches\transforms-3\fa9836749877ebc04cd2d0e4df1ea177\transformed\core-1.9.0\res
+com.example.chatbox.app-pngs-47 D:\Android Studio\ChatBox\app\build\generated\res\pngs\debug
+com.example.chatbox.app-res-48 D:\Android Studio\ChatBox\app\build\generated\res\processDebugGoogleServices
+com.example.chatbox.app-resValues-49 D:\Android Studio\ChatBox\app\build\generated\res\resValues\debug
+com.example.chatbox.app-packageDebugResources-50 D:\Android Studio\ChatBox\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.chatbox.app-packageDebugResources-51 D:\Android Studio\ChatBox\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.chatbox.app-merged_res-52 D:\Android Studio\ChatBox\app\build\intermediates\merged_res\debug
+com.example.chatbox.app-debug-53 D:\Android Studio\ChatBox\app\src\debug\res
+com.example.chatbox.app-main-54 D:\Android Studio\ChatBox\app\src\main\res

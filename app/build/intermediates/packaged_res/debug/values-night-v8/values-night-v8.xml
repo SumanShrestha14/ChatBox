@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.Chatbox" parent="Theme.Material3.DayNight.NoActionBar">
+
+        
+        <item name="background">@color/black</item>
+
+        
+        <item name="android:statusBarColor">@color/black</item>
+
+        
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+    <style name="Theme.Chatbox" parent="Base.Theme.Chatbox"/>
+</resources>
